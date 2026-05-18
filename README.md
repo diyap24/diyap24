@@ -35,16 +35,15 @@
 
 ### 📊 github stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diyap24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyap24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
+### 📊 github stats
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=diyap24&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyap24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/diyap24)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyap24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/diyap24)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=diyap24&theme=tokyonight&hide_border=true)](https://github.com/diyap24)
 
 </div>
 
