@@ -33,15 +33,20 @@
 
 ---
 
+
 ### 📊 github stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyap24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/diyap24)
+<img src="https://github-readme-stats.vercel.app/api?username=diyap24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diyap24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/diyap24)
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=diyap24&theme=tokyonight&hide_border=true)](https://github.com/diyap24)
+<img src="https://streak-stats.demolab.com?user=diyap24&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyap24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
 
