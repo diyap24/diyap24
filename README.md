@@ -35,8 +35,6 @@
 
 ### 📊 github stats
 
-### 📊 github stats
-
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyap24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/diyap24)
