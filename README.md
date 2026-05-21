@@ -11,7 +11,11 @@
 
 <br/>
 
+<div align="center">
+
 ## 🧠 whoami
+
+</div>
 
 ```python
 diya = {
@@ -30,7 +34,11 @@ diya = {
 
 <br/>
 
+<div align="center">
+
 ## 🛠️ Tech Stack
+
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -64,7 +72,11 @@ diya = {
 
 <br/>
 
+<div align="center">
+
 ## 🚀 Projects
+
+</div>
 
 <table>
 <tr>
@@ -117,7 +129,11 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 
 <br/>
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+</div>
 
 <div align="center">
 
@@ -127,7 +143,11 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 
 <br/>
 
+<div align="center">
+
 ## 🎨 Languages & Tools
+
+</div>
 
 <div align="center">
 
@@ -137,7 +157,11 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 
 <br/>
 
+<div align="center">
+
 ## 🐍 Contributions
+
+</div>
 
 <div align="center">
 
@@ -148,7 +172,11 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 
 <br/>
 
+<div align="center">
+
 ## 🔭 Currently Working On
+
+</div>
 
 ```bash
 $ git log --oneline -3
@@ -159,7 +187,11 @@ $ git log --oneline -3
 
 <br/>
 
+<div align="center">
+
 ## 📬 Contact Me
+
+</div>
 
 <div align="center">
 
