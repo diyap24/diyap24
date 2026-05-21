@@ -195,11 +195,11 @@ $ git log --oneline -3
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jeneel-panchal-lu767ffy/"><img src="https://raw.githubusercontent.com/diyap24/diyap24/main/linkedin.svg" height="40" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/diya-patel-58639b210/"><img src="https://raw.githubusercontent.com/diyap24/diyap24/main/linkedin.svg" height="40" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:diyadp25@gmail.com"><img src="https://raw.githubusercontent.com/diyap24/diyap24/main/gmail.svg" height="40" alt="Gmail"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/JeneelPanchalV"><img src="https://raw.githubusercontent.com/diyap24/diyap24/main/github-dark.svg" height="40" alt="GitHub"/></a>
+<a href="https://github.com/diyap24"><img src="https://raw.githubusercontent.com/diyap24/diyap24/main/github-dark.svg" height="40" alt="GitHub"/></a>
 
 <br/>
 
