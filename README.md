@@ -35,11 +35,10 @@ diya = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -67,9 +66,7 @@ diya = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,jupyter,react,nextjs,ts,js,html,css,tailwind,nodejs,flask,express,aws,gcp,azure,docker,kubernetes,postgres,mongodb,redis,git,github,vscode,linux,bash,figma&perline=7" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,react,nextjs,ts,js,html,css,tailwind,nodejs,flask,express,aws,gcp,azure,docker,kubernetes,postgres,mongodb,redis,git,github,vscode,linux,bash,figma&perline=7" />
 
 </div>
 
@@ -133,8 +130,6 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diyap24&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/diyap24)
-
-<br/>
 
 </div>
 
