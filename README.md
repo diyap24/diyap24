@@ -4,54 +4,43 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=diyap24&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/diyap24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-patel-58639b210/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diyadp25@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-00d9ff?style=flat-square&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diyadp25@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-00d9ff?style=flat-square)](https://github.com/diyap24)
 
 </div>
 
-## whoami
+<br/>
+
+## 🧠 whoami
 
 ```python
 diya = {
     "role"        : "Full-Stack & AI/ML Engineer",
+    "education"   : "M.S. Computer Science",
     "location"    : "Remote — Worldwide",
     "available"   : True,
     "focus"       : ["Production ML", "Full-Stack Web Apps", "AI-Powered Products"],
     "currently"   : "Exploring LLM fine-tuning & production AI deployment pipelines",
-    "fun_fact"    : "I like problems that sit at the edge of ML and real software",
+    "philosophy"  : "The best model is the one that ships.",
 }
 ```
 
 > I don't just train models — I ship them. From CNNs to full-stack web apps,
 > I build AI products that work outside the notebook.
 
-## Tech Stack
+<br/>
 
-**AI / ML**
+## 🛠️ Languages & Tools I Have Placed My Hands On
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<div align="center">
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,jupyter,react,nextjs,ts,js,html,css,tailwind,nodejs,flask,express,aws,gcp,azure,docker,postgres,mongodb,redis,git,github,vscode,linux,bash,figma&perline=7" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-**Backend & Cloud**
+<br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-
-## projects
+## 🚀 Projects
 
 <table>
 <tr>
@@ -102,16 +91,25 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 </tr>
 </table>
 
+<br/>
 
-## Github Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diyap24&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/diyap24)
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=diyap24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&cache_seconds=86400" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyap24&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=6&cache_seconds=86400" height="165" />
+
 </div>
 
-## Contributions
+<br/>
+
+## 🐍 Contributions
 
 <div align="center">
 
@@ -120,7 +118,9 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 
 </div>
 
-## Currently Working On
+<br/>
+
+## 🔭 Currently Working On
 
 ```bash
 $ git log --oneline -3
@@ -129,21 +129,25 @@ $ git log --oneline -3
 →  Open to freelance work in full-stack or ML engineering
 ```
 
-## Contact Me
+<br/>
+
+## 📬 Let's Connect
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [diya-patel-58639b210](https://www.linkedin.com/in/diya-patel-58639b210/) |
-| 📧 Email | [diyadp25@gmail.com](mailto:diyadp25@gmail.com) |
-| 🐙 GitHub | [@diyap24](https://github.com/diyap24) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-patel-58639b210/)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyadp25@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diyap24)
 
-**Got something to build? Let's talk.**
+<br/>
 
-</div>
+```
+💡 Got an idea? I'm open to freelance, collabs, and full-time remote roles.
+   Whether it's ML research, a production app, or something in between —
+   let's build it.
+```
 
-<div align="center">
+<br/>
 
 *"The best model is the one that ships."*
 
