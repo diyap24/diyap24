@@ -157,21 +157,13 @@ $ git log --oneline -3
 
 <br/>
 
-## 📬 Let's Connect
+## 📬 Contact Me:
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-patel-58639b210/)
 [![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyadp25@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diyap24)
-
-<br/>
-
-```
-💡 Got an idea? I'm open to freelance, collabs, and full-time remote roles.
-   Whether it's ML research, a production app, or something in between —
-   let's build it.
-```
 
 <br/>
 
