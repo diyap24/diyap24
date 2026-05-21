@@ -163,9 +163,11 @@ $ git log --oneline -3
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-patel-58639b210/)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyadp25@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diyap24)
+<a href="https://www.linkedin.com/in/jeneel-panchal-lu767ffy/"><img src="https://raw.githubusercontent.com/diyap24/diyap24/main/linkedin.svg" height="40" alt="LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:jeneelpanchal74@gmail.com"><img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/gmail.svg" height="40" alt="Gmail"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/JeneelPanchalV"><img src="https://raw.githubusercontent.com/JeneelPanchalV/JeneelPanchalV/main/github-dark.svg" height="40" alt="GitHub"/></a>
 
 <br/>
 
