@@ -9,9 +9,7 @@
 
 </div>
 
----
-
-## `> whoami`
+## whoami
 
 ```python
 diya = {
@@ -27,9 +25,7 @@ diya = {
 > I don't just train models — I ship them. From CNNs to full-stack web apps,
 > I build AI products that work outside the notebook.
 
----
-
-## `> tech_stack`
+## Tech Stack
 
 **AI / ML**
 
@@ -54,9 +50,8 @@ diya = {
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
 
-## `> projects`
+## projects
 
 <table>
 <tr>
@@ -107,9 +102,8 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 </tr>
 </table>
 
----
 
-## `> github_stats`
+## Github Stats
 
 <div align="center">
 
@@ -117,9 +111,7 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 
 </div>
 
----
-
-## `> contributions`
+## Contributions
 
 <div align="center">
 
@@ -128,9 +120,7 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 
 </div>
 
----
-
-## `> currently_working_on`
+## Currently Working On
 
 ```bash
 $ git log --oneline -3
@@ -139,9 +129,7 @@ $ git log --oneline -3
 →  Open to freelance work in full-stack or ML engineering
 ```
 
----
-
-## `> contact`
+## Contact Me
 
 <div align="center">
 
@@ -154,8 +142,6 @@ $ git log --oneline -3
 **Got something to build? Let's talk.**
 
 </div>
-
----
 
 <div align="center">
 
