@@ -62,14 +62,6 @@ diya = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🎨 Tools at a Glance
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,react,nextjs,ts,js,html,css,tailwind,nodejs,flask,express,aws,gcp,azure,docker,kubernetes,postgres,mongodb,redis,git,github,vscode,linux,bash,figma&perline=7" />
-
-</div>
-
 <br/>
 
 ## 🚀 Projects
@@ -130,6 +122,14 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diyap24&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/diyap24)
+
+</div>
+
+## 🎨 Languages & Tools 
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,react,nextjs,ts,js,html,css,tailwind,nodejs,flask,express,aws,gcp,azure,docker,kubernetes,postgres,mongodb,redis,git,github,vscode,linux,bash,figma&perline=7" />
 
 </div>
 
