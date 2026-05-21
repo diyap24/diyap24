@@ -121,11 +121,13 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=diyap24&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/diyap24)
+[![GitHub Streak](https://streak-stats.demolab.com?user=diyap24&theme=tokyonight&hide_border=true&background=1A1B27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://github.com/diyap24)
 
 </div>
 
-## 🎨 Languages & Tools 
+<br/>
+
+## 🎨 Languages & Tools
 
 <div align="center">
 
@@ -157,7 +159,7 @@ $ git log --oneline -3
 
 <br/>
 
-## 📬 Contact Me:
+## 📬 Contact Me
 
 <div align="center">
 
