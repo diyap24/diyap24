@@ -127,6 +127,24 @@ Real-time fuel efficiency predictor trained on 8,428 vehicles. Input engine spec
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🎖️ SkillBridge
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/diyap24/skillbridge)
+[![Live](https://img.shields.io/badge/Live_Demo-00C897?style=flat-square&logo=vercel&logoColor=white)](https://skillbridge-olive-six.vercel.app)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+Full-stack micro-credential platform where developers prove skills through real code execution. Earn verifiable badges, browse a job board, and share a public profile. Built with Next.js 16, ASP.NET Core 9, PostgreSQL, MongoDB & Redis.
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 <div align="center">
