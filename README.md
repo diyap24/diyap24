@@ -3,6 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Diya+%F0%9F%91%8B;Full-Stack+%26+AI%2FML+Engineer;Building+things+that+actually+work.)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=diyap24&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/diyap24)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=flat-square&logo=googlechrome&logoColor=white)](https://diyap24.github.io/Portfolio-/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-patel-58639b210/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diyadp25@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-00d9ff?style=flat-square)](https://github.com/diyap24)
@@ -212,6 +213,11 @@ $ git log --oneline -3
 </div>
 
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00d9ff?style=for-the-badge&logoColor=white)](https://diyap24.github.io/Portfolio-/)
+
+<br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/diya-patel-58639b210/"><img src="https://raw.githubusercontent.com/diyap24/diyap24/main/linkedin.svg" height="40" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
